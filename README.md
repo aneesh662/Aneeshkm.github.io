@@ -62,4 +62,4 @@ I'm **Aneesh Mohanan**, a results-oriented Data Analyst with a strong background
 
 ---
 
-Feel free to explore my portfolio to learn more about my projects and capabilities!
+Feel free to explore my portfolio to learn more about my projects and capabilities! [Portfolio](https://aneesh662.github.io/Aneeshkm.github.io/)
